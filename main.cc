@@ -4,8 +4,6 @@
 //
 // Extra challenge practice problem
 
-#include <iostream>
-#include <string>
 
 #include "stock_market.h"
 
@@ -14,5 +12,5 @@
 // STOCK MARKET: https://finance.yahoo.com/quote/GOOG/
 
 int main {
-
-}
+};
+return 0;
